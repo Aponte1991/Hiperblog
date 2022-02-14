@@ -12,3 +12,6 @@ git log: se usa para ver la historia de nuestros archivos, los commits, el usuar
 
 // Modificación
 Se hace una modificación para prueba en el archivo
+
+//Update
+Se borra un punto
