@@ -10,6 +10,8 @@ Este es un blog del curso de Platzi de Git y GitHub
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Yahir
 * Creado por el incríble Platzi Team
+* Incluye ejemplos en Windows, Linux y MAc
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**
 
