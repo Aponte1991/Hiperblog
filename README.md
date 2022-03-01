@@ -9,6 +9,7 @@ Este es un blog del curso de Platzi de Git y GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Yahir
+* Creado por el incríble Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**
 
